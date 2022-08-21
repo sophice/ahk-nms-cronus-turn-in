@@ -50,5 +50,5 @@ You can create Fungal Mould easily with a medium or large refinery. Head to a sp
 
 # Known issues
 
-- If you enable the "stop on mouse move" feature, sometimes when you first speak to Cronus the game will move your mouse, thus interrupting the script. You may have to start the script again once or twice (without touching the mouse) to get it to continue looping. Once it is looping you are safe to walk away.
+- If you enable the "stop on mouse move" feature, sometimes when you first speak to Cronus the game will move your mouse, thus interrupting the script. You may have to press the hotkey again (without touching the mouse) to get it to resume looping. Once it is looping you are safe to walk away.
 
