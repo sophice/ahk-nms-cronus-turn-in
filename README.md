@@ -33,7 +33,7 @@ A bonus feature that is disabled by default. If you are using the script version
 
 # What food should I turn in?
 
-I'm open to suggestions here but my go to is [Delicious Vegetable Stew](https://nomanssky.fandom.com/wiki/Delicious_Vegetable_Stew). It gets you a good amount of Nanites, and it only requires a single ingredient; [Fungal Mould](https://nomanssky.fandom.com/wiki/Fungal_Mould). Here's how you can make a batch of 50.
+I'm open to suggestions here but my go to is [Delicious Vegetable Stew](https://nomanssky.fandom.com/wiki/Delicious_Vegetable_Stew). It gets you 40-129 Nanites per stew and only requires a single ingredient; [Fungal Mould](https://nomanssky.fandom.com/wiki/Fungal_Mould). Here's how you can make a batch of 50.
 
 1) Gather 200 Fungal Mould.
 2) Cook all 200 Fungal Mould to get 200 Non-Toxic Mushroom.
