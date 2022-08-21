@@ -46,7 +46,7 @@ If you want to really churn through a lot, build 10 cooking stations, so you can
 
 ## Easy Fungal Mould
 
-You can create Fungal Mould easily with a refinery. Head to a space station and buy Oxygen, Ferrite Dust and Paraffinium. Combine Ferrite Dust and Paraffinium to create Ammonia. Combine Ammonia and Oxygen to make Fungal Mould. Combine Fungal Mould and Ammonia to duplicate your Fungal Mould rapidly.
+You can create Fungal Mould easily with a medium or large refinery. Head to a space station and buy Oxygen, Ferrite Dust and Paraffinium. Combine Ferrite Dust and Paraffinium to create Ammonia. Combine Ammonia and Oxygen to make Fungal Mould. Combine Fungal Mould and Ammonia to duplicate your Fungal Mould rapidly.
 
 # Known issues
 
