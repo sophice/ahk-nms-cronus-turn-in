@@ -5,14 +5,15 @@ SetWorkingDir %A_ScriptDir%
 #MaxThreadsPerHotkey 2
 
 ;set this to true, and the script will stop as soon as the mouse moves
-;   note: the game might move the mouse without your input when you start
-;   the script, so you may have to activate it a couple times to get it
-;   to keep looping
+;   note: the game might move the mouse without your input when you start the script, so you may have to activate it a
+;   couple times to get it to keep looping
 stopOnMouseMove := false
 
 ;do not change. this is used to interrupt the script when the hotkey is pressed or the mouse is moved
 keepLooping := false
 
+;this is the shortcut (the ` key, same key as tilde). change it to whatever you like. the documentation for hot keys is
+;   at https://www.autohotkey.com/docs/Hotkeys.htm if you want to do more advanced hotkeys.
 ~`::
     ;store the current mouse position, so we can check if the mouse has moved later
 	MouseGetPos, originalX, originalY
@@ -20,6 +21,7 @@ keepLooping := false
     ;toggle the loop on or off
 	keepLooping := !keepLooping
 
+    ;main loop!
 	while keepLooping
 	{
 	    ;if we are not within the no man's sky window, stop the loop
