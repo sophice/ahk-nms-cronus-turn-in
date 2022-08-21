@@ -11,7 +11,7 @@ You can either use the latest executable release, or run the script itself. Both
 1) Download the [latest executable release](https://github.com/sophice/ahk-nms-cronus-turn-in/releases), place it anywhere you want.
 2) Run the exe.
 
-Note: With the executable version, you will not be able to change the keyboard shortcut for triggering the script
+Note: With the executable version, you will not be able to change the keyboard shortcut for triggering the script.
 
 ## Running the .ahk script
 
