@@ -25,7 +25,7 @@ Note: With the executable version, you will not be able to change the keyboard s
 2) Press the ` key (the same key as tilde - top left of your keyboard, next to the 1 key) to start turning in food.
 3) Press the ` key again to stop.
 
-The keyboard shortcut can be easily changed by editing cronus-turn-in.ahk. If you leave the No Man's Sky window, the script will automatically stop.
+The keyboard shortcut can be easily changed by editing cronus-turn-in.ahk. If you leave the No Man's Sky window, the script will automatically stop as a safety measure.
 
 ## Stop on mouse move
 
